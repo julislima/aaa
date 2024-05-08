@@ -1,8 +1,12 @@
 import React from 'react'
+<<<<<<< HEAD
 import '../App.css'
 import '../assets/logotur.png'
 
 
+=======
+import '../assets/logotur.png'
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 import { Link } from 'react-router-dom'
 
 function Navbar() {

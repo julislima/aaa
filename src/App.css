@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 :root {
   --text-01: #203F51;
   --light-01: #F9F9F9;
@@ -495,7 +499,15 @@ footer {
   display: flex;
   margin-left: 25px;
 }
+<<<<<<< HEAD
   b 
+=======
+
+
+
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 
 footer ul {
   display: flex;
@@ -512,6 +524,11 @@ footer ul {
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 footer ul li a {
   color: white;
   text-decoration: none;
@@ -519,6 +536,11 @@ footer ul li a {
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 footer ul li {
   color: white;
   padding: 0;
@@ -540,6 +562,11 @@ footer ul li {
   section.hero {
       aspect-ratio: 1/1;
       padding-top: 64px;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
   }
 
 
@@ -588,6 +615,11 @@ footer ul li {
   }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
   .btn-group {
       flex-direction: column;
   }
@@ -618,6 +650,11 @@ footer ul li {
 
 
   #locate p {
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
       width: 80%;
   }
 
@@ -628,6 +665,14 @@ footer ul li {
   }
 
 
+<<<<<<< HEAD
+=======
+
+
+ 
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 .btn-group {
     display: flex;
     flex-direction: row;
@@ -640,6 +685,7 @@ section.hero h1 {
     font-weight: 600;
     line-height: 1.2;
     width: 40%;
+<<<<<<< HEAD
     color: var(--text-01);
 }
 }
@@ -647,6 +693,17 @@ section.hero h1 {
 
 
 
+=======
+
+
+    color: var(--text-01);
+}
+
+
+}
+
+
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 @media only screen and (min-width: 600px) {
   :root {
       --pg-margin: 24px;
@@ -821,8 +878,17 @@ section.hero h1 {
 
 
   footer {
+<<<<<<< HEAD
   flex-direction: row;
     text-align: left;
+=======
+
+
+
+
+      flex-direction: row;
+      text-align: left;
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
 
 
   }
@@ -870,6 +936,7 @@ section.hero h1 {
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -889,3 +956,5 @@ section.hero h1 {
 
 
 
+=======
+>>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
