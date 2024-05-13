@@ -1,4 +1,4 @@
-import '../App.css';
+import '../components/home.css';
 import { Link } from 'react-router-dom'
 
 function Home() {
@@ -11,11 +11,6 @@ function Home() {
         <div className="img-principal">
           <img src={require('../assets/imagem3.png')} width={390} alt="Imagem Principal" />
         </div>
-        git init
-        <h1 className='textinho'>Explore Salvador da forma mais acessível para você.</h1>
-        <div className="img-principal">
-          <img src={require('../assets/imagem3.png')} width={390} alt="Imagem Principal" />
-        </div>
 
         <div className="Matheus">
         <a href ='/sobreosite'><button className="btn-filled-dark"><span className="material-symbols-outlined">Sobre o nosso site</span></button></a>
@@ -25,10 +20,6 @@ function Home() {
       <section id="serv-groom">
         <h2>Serviços</h2>
         <ul className="services">
-<<<<<<< HEAD
-
-=======
->>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
           <li className="card-large card-dark card-wide">
             <div className="card-image1">
               <img src={require('../assets/localização4.png')} alt="Localização" />
@@ -37,46 +28,28 @@ function Home() {
               <br></br>
               <h1 >Guias por Localização.</h1>
               <br></br>
-<<<<<<< HEAD
-
-=======
->>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
               <p className='texto-serviços'>Nosso guia por localização é a ferramenta perfeita para explorar destinos turísticos de forma fácil e conveniente.</p>
               <br></br>
               <br></br>
               <br></br>
-<<<<<<< HEAD
 
               <button className="btn-filled-dark"><span className="material-symbols-outlined">Saiba mais</span></button>
             </div>
           </li>
 
-=======
-              <button className="btn-filled-dark"><span className="material-symbols-outlined">Saiba mais</span></button>
-            </div>
-          </li>
->>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
           <li className="card-large card-dark card-wide">
             <div className="card-image">
               <img src={require('../assets/guias.png')} alt="Guias Turísticos" />
             </div>
-<<<<<<< HEAD
-
-=======
->>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
             <div className='youtube'>
               <br></br>
               <h1>Guias Turísticos</h1>
               <br></br>
-<<<<<<< HEAD
-              
-=======
->>>>>>> 95220621fb385dc6e9ae6098a570a87977615a19
               <p className='texto-serviços2'>Nossos guias são pensados de acordo com as suas preferências individuais, oferecendo as recomendações mais acessíveis e pensando nas suas necessidades.</p>
               <br></br>
               <br></br>
               <br></br> 
-              <button className="btn-filled-dark"><span className="material-symbols-outlined">Saiba mais</span></button>
+              <a href ='./guiasturis'><button className="btn-filled-dark"><span className="material-symbols-outlined">Saiba mais</span></button></a>
             </div>
           </li>
         </ul>
